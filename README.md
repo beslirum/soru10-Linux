@@ -1,0 +1,1 @@
+# soru10-Linux
